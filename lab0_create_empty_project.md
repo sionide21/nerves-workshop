@@ -29,7 +29,7 @@ Say yes and it will prompt for password and burn card.
 
 ## Boot device
 
-Plug usb cable into micro usb port labeled "USB", it's the one closer to the center of the board.
+Insert SD card into Raspberry Pi, Plug usb cable into micro usb port labeled "USB", it's the one closer to the center of the board.
 
 Hook up to computer and wait about 2 seconds.
 
