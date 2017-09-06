@@ -1,6 +1,12 @@
 Mac Installation Instructions
 =============================
 
+## Install fwup requirements
+
+```
+brew install fwup squashfs coreutils
+```
+
 ## Install fwup
 
 ```
