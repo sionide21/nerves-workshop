@@ -7,12 +7,6 @@ Mac Installation Instructions
 brew install fwup squashfs coreutils
 ```
 
-## Install fwup
-
-```
-brew install fwup
-```
-
 ## Update hex and rebar
 
 ```
